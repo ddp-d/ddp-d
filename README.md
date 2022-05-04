@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddp-d
-- 👀 I’m interested in  in databases, analytics, data protection. My other passions are art and music, blogging, photography.
+- 👀 I’m interested in  in python, databases, analytics, data protection. My other passions are art and music, blogging, photography.
 - 📫 How to reach me:
 LinkedIn - https://www.linkedin.com/in/daria-poimanova-a59b37194
 
